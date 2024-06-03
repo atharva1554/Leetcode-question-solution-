@@ -6,6 +6,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 # Hash Table
@@ -25,8 +26,13 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 # Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 # Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
