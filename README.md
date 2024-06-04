@@ -44,3 +44,11 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
+# String
+|  |
+| ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+# Simulation
+|  |
+| ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
