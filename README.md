@@ -10,6 +10,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -17,6 +18,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
 # Two Pointers
@@ -57,3 +59,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0128-longest-consecutive-sequence) |
