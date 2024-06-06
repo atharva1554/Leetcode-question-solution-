@@ -9,6 +9,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0031-next-permutation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -65,6 +66,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 # Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 # Union Find
@@ -79,4 +81,5 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0073-set-matrix-zeroes) |
