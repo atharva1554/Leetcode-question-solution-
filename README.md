@@ -17,6 +17,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0128-longest-consecutive-sequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -28,6 +29,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0128-longest-consecutive-sequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
 # Two Pointers
 |  |
@@ -41,6 +43,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0229-majority-element-ii) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +53,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0229-majority-element-ii) |
 # Dynamic Programming
 |  |
 | ------- |
