@@ -112,3 +112,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0287-find-the-duplicate-number) |
+# Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0595-big-countries) |
