@@ -26,6 +26,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0238-product-of-array-except-self](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
+| [1137-height-checker](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1137-height-checker) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
 |  |
@@ -58,6 +59,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0229-majority-element-ii) |
+| [1137-height-checker](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1137-height-checker) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -117,3 +119,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0595-big-countries](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1908-recyclable-and-low-fat-products) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1137-height-checker) |
