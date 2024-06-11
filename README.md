@@ -27,6 +27,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0287-find-the-duplicate-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [1137-height-checker](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1217-relative-sort-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
 |  |
@@ -38,6 +39,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0217-contains-duplicate](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
+| [1217-relative-sort-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1217-relative-sort-array) |
 # Two Pointers
 |  |
 | ------- |
@@ -60,6 +62,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0217-contains-duplicate](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0229-majority-element-ii) |
 | [1137-height-checker](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1217-relative-sort-array) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -123,3 +126,4 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1217-relative-sort-array) |
