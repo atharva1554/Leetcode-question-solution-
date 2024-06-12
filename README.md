@@ -26,6 +26,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0238-product-of-array-except-self](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0792-binary-search) |
 | [1137-height-checker](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1217-relative-sort-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -113,6 +114,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0792-binary-search) |
 # Bit Manipulation
 |  |
 | ------- |
