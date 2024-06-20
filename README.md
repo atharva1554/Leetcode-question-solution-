@@ -34,6 +34,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1137-height-checker](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
 |  |
@@ -71,6 +72,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0853-most-profit-assigning-work](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0853-most-profit-assigning-work) |
 | [1137-height-checker](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1675-magnetic-force-between-two-balls) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +129,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0792-binary-search](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1675-magnetic-force-between-two-balls) |
 # Bit Manipulation
 |  |
 | ------- |
