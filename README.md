@@ -34,6 +34,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1137-height-checker](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -48,6 +49,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0229-majority-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [1217-relative-sort-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1370-count-number-of-nice-subarrays) |
 # Two Pointers
 |  |
 | ------- |
@@ -113,6 +115,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0048-rotate-image) |
+| [1370-count-number-of-nice-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1370-count-number-of-nice-subarrays) |
 # Matrix
 |  |
 | ------- |
@@ -153,3 +156,4 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1370-count-number-of-nice-subarrays) |
