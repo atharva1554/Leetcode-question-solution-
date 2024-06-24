@@ -31,6 +31,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0853-most-profit-assigning-work) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1137-height-checker](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1217-relative-sort-array) |
@@ -98,6 +99,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # String
 |  |
 | ------- |
@@ -139,6 +141,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0287-find-the-duplicate-number) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Database
 |  |
 | ------- |
@@ -156,12 +159,14 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Heap (Priority Queue)
 |  |
