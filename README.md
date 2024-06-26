@@ -201,6 +201,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0033-search-in-rotated-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
