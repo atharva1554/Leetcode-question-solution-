@@ -30,6 +30,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0229-majority-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0853-most-profit-assigning-work) |
@@ -202,6 +203,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0540-single-element-in-a-sorted-array) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
