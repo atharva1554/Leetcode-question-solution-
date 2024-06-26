@@ -85,6 +85,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
+| [1285-balance-a-binary-search-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1285-balance-a-binary-search-tree) |
 # Counting
 |  |
 | ------- |
@@ -158,6 +159,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0853-most-profit-assigning-work) |
+| [1285-balance-a-binary-search-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1285-balance-a-binary-search-tree) |
 # Sliding Window
 |  |
 | ------- |
@@ -186,15 +188,19 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1285-balance-a-binary-search-tree) |
