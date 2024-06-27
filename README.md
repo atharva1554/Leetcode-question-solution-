@@ -26,6 +26,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0229-majority-element-ii) |
@@ -206,6 +207,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0074-search-a-2d-matrix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0540-single-element-in-a-sorted-array) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1285-balance-a-binary-search-tree) |
