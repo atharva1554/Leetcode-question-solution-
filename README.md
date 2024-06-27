@@ -42,6 +42,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1138-grumpy-bookstore-owner](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1675-magnetic-force-between-two-balls) |
@@ -213,6 +214,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0907-koko-eating-bananas](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0907-koko-eating-bananas) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1285-balance-a-binary-search-tree) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 # Binary Tree
 |  |
 | ------- |
