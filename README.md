@@ -215,6 +215,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1285-balance-a-binary-search-tree) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Binary Tree
 |  |
 | ------- |
