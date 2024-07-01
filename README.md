@@ -243,4 +243,8 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
