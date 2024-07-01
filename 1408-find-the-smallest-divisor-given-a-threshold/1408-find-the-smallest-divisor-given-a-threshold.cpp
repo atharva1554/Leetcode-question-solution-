@@ -1,5 +1,5 @@
 class Solution {
-    long long int t(vector<int>&nums,int d)
+    long long int t(vector<int>&nums,long long int  d)
     {
         int n=nums.size();
        long long int  ans=0;
@@ -7,7 +7,7 @@ class Solution {
         {
             if(nums[i]%d==0)
             {
-                ans=ans+nums[i]/d;
+                ans=ans+(nums[i]/d);
             }
             else
             {
@@ -18,11 +18,11 @@ class Solution {
     }
 public:
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int low=INT_MAX;
-        int high=INT_MIN;
+        int low=1;
+        int high=0;
         for(int i=0;i<nums.size();i++)
         {
-            low=min(low,nums[i]);
+           
             high=max(high,nums[i]);
         }
         while(low<=high)
