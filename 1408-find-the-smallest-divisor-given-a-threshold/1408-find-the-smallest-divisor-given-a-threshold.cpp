@@ -1,38 +1,41 @@
 class Solution {
-public:
-  long long int s(vector<int>&nums, long long int d)
-  {  long long int ans=0;
-    for(int i=0;i<nums.size();i++)
+    long long int t(vector<int>&nums,int d)
     {
-        if(nums[i]%d==0)
+        int n=nums.size();
+       long long int  ans=0;
+        for(int i=0;i<n;i++)
         {
-            ans=ans+(nums[i]/d);
+            if(nums[i]%d==0)
+            {
+                ans=ans+nums[i]/d;
+            }
+            else
+            {
+                ans=ans+(nums[i]/d)+1;
+            }
         }
-        else
-        {
-            ans=ans+(nums[i]/d)+1;
-        }
+        return ans;
     }
-    return ans;
-  }
+public:
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int low=1;
-        int high=0;
+        int low=INT_MAX;
+        int high=INT_MIN;
         for(int i=0;i<nums.size();i++)
         {
+            low=min(low,nums[i]);
             high=max(high,nums[i]);
         }
         while(low<=high)
         {
-            long long int mid=(low+high)/2;
-            long long int ak=s(nums,mid);
-            if(ak>threshold)
+           long long int  mid=(low+high)/2;
+           long long int  ans=t(nums,mid);
+            if(ans<=threshold)
             {
-                low=mid+1;
+                high=mid-1;
             }
             else
             {
-                high=mid-1;
+                low=mid+1;
             }
         }
         return low;
