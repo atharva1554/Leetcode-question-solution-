@@ -246,6 +246,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -256,6 +257,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -296,4 +298,8 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2299-merge-nodes-in-between-zeros) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
