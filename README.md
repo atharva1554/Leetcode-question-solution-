@@ -247,6 +247,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
@@ -276,6 +277,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
