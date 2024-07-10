@@ -7,8 +7,8 @@ public:
         {
             if(nums[i]<nums[i+1])
             {
-              ind=i;
-              break;
+                ind=i;
+                break;
             }
         }
         if(ind==-1)
@@ -16,18 +16,15 @@ public:
             reverse(nums.begin(),nums.end());
             return;
         }
-        
-        
-            for(int i=n-1;i>ind;i--)
+        for(int i=n-1;i>ind;i--)
+        {
+            if(nums[i]>nums[ind])
             {
-                if(nums[i]>nums[ind])
-                {
-                      swap(nums[i],nums[ind]);
-                      break;
-                }
+                swap(nums[i],nums[ind]);
+                break;
             }
-            reverse(nums.begin()+ind+1,nums.end());
+        }
+        reverse(nums.begin()+ind+1,nums.end());
         
-    
     }
 };
