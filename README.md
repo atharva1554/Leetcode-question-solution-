@@ -246,6 +246,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0136-single-number) |
@@ -276,6 +277,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
