@@ -271,6 +271,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1720-crawler-log-folder](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1803-average-waiting-time) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
 ## Binary Search
 |  |
 | ------- |
@@ -304,6 +305,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
@@ -332,6 +334,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1803-average-waiting-time](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1803-average-waiting-time) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -365,6 +368,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
 ## Bit Manipulation
 |  |
 | ------- |
