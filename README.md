@@ -288,6 +288,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0001-two-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 ## Two Pointers
@@ -305,6 +306,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -366,6 +368,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0014-longest-common-prefix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0242-valid-anagram) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1078-remove-outermost-parentheses) |
