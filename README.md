@@ -367,6 +367,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0014-longest-common-prefix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0151-reverse-words-in-a-string) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1720-crawler-log-folder) |
@@ -397,4 +398,8 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
