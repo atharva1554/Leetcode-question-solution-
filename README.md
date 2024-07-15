@@ -298,6 +298,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
@@ -326,6 +327,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
@@ -372,6 +374,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0014-longest-common-prefix) |
