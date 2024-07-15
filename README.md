@@ -294,6 +294,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -388,6 +389,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1720-crawler-log-folder](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -408,6 +410,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Union Find
 |  |
 | ------- |
