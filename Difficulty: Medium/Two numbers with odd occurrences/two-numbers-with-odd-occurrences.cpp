@@ -10,22 +10,38 @@ class Solution{
     vector<long long int> twoOddNum(long long int Arr[], long long int N)  
     {
         // code here
-        vector<long long int>a;
-        map<long long int,long long int>mpp;
+       
+        long long int x=0;
         for(long long int i=0;i<N;i++)
         {
-            mpp[Arr[i]]++;
+            x=x^Arr[i];
         }
-        for (auto it:mpp)
+        long long int r;
+        r=(x&(x-1))^x;
+        long long int a=0,b=0;
+        for(long long int i=0;i<N;i++)
         {
-            if((it.second)%2!=0)
+            if((r&Arr[i]))
             {
-                a.push_back(it.first);
+                a=a^Arr[i];
+            }
+            else
+            {
+                b=b^Arr[i];
             }
         }
-        reverse(a.begin(),a.end());
-        return a;
+        vector<long long int>ans;
+        if(a>b)
+        {
+            ans.push_back(a);
+         ans.push_back(b);
+        }
+        else
+        {  ans.push_back(b);
+            ans.push_back(a);
         
+        }
+        return ans;
     }
 };
 
