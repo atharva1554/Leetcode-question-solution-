@@ -409,6 +409,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0136-single-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0136-single-number) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
 |  |
 | ------- |
