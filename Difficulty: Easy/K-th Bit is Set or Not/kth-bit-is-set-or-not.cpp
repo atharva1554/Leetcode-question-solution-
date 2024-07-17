@@ -11,32 +11,10 @@ using namespace std;
 class Solution {
   public:
     // Function to check if Kth bit is set or not.
-    string ans(int n)
-    {
-        string a="";
-        while(n>0)
-        {
-            if(n%2==0)
-            {
-                a=a+'0';
-            }
-            else
-            {
-                a=a+'1';
-            }
-            n=n/2;
-        }
-       // reverse(a.begin(),a.end());
-        //cout<<a<<endl;
-        return a;
-    }
     bool checkKthBit(int n, int k) {
         // Your code here
         // It can be a one liner logic!! Think of it!!
-        string x;
-        x=ans(n);
-        //cout<<x<<endl;
-        if(x[k]=='1')
+        if((n &(1<<k))!=0)
         {
             return true;
         }
@@ -44,7 +22,6 @@ class Solution {
         {
             return false;
         }
-        
     }
 };
 
