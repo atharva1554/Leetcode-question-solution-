@@ -368,6 +368,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0231-power-of-two) |
 | [1642-water-bottles](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1642-water-bottles) |
@@ -410,6 +411,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0231-power-of-two) |
