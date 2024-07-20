@@ -271,6 +271,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1646-kth-missing-positive-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1677-matrix-diagonal-sum) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1803-average-waiting-time) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -327,6 +328,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -365,6 +367,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1677-matrix-diagonal-sum) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Math
 |  |
 | ------- |
