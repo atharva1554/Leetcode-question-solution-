@@ -262,6 +262,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0136-single-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
@@ -379,12 +380,14 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0029-divide-two-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0231-power-of-two) |
 | [1642-water-bottles](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2032-largest-odd-number-in-string) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1656-count-good-triplets) |
 ## String
 |  |
@@ -473,4 +476,8 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0078-subsets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
