@@ -241,10 +241,12 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
 |  |
 | ------- |
@@ -276,6 +278,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1803-average-waiting-time](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1803-average-waiting-time) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
 ## Binary Search
 |  |
@@ -368,6 +371,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0240-search-a-2d-matrix-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2472-build-a-matrix-with-conditions) |
 ## Math
 |  |
 | ------- |
