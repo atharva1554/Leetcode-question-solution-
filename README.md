@@ -377,6 +377,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0013-roman-to-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0231-power-of-two) |
 | [1642-water-bottles](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1642-water-bottles) |
@@ -466,6 +467,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
