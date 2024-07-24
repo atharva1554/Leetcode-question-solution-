@@ -269,6 +269,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0485-max-consecutive-ones](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0485-max-consecutive-ones) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1646-kth-missing-positive-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1646-kth-missing-positive-number) |
@@ -329,6 +330,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
+| [1333-sort-the-jumbled-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2502-sort-the-people) |
