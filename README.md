@@ -277,6 +277,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1293-three-consecutive-odds](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1511-count-number-of-teams](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1646-kth-missing-positive-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1656-count-good-triplets) |
@@ -363,6 +364,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1511-count-number-of-teams) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -532,4 +534,8 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
