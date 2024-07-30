@@ -365,6 +365,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -433,6 +434,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2032-largest-odd-number-in-string) |
@@ -447,6 +449,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
 ## Bit Manipulation
