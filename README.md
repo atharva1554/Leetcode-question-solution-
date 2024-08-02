@@ -287,6 +287,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1720-crawler-log-folder](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1803-average-waiting-time) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2472-build-a-matrix-with-conditions) |
@@ -541,6 +542,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
