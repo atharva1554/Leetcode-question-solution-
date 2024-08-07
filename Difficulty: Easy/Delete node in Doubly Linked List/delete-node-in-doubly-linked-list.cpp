@@ -34,33 +34,38 @@ struct Node
 */
 
 class Solution {
-public:
+  public:
     Node* deleteNode(Node* head, int x) {
-        if (!head) return nullptr; // If the list is empty
-
-        Node* temp = head;
-
-        // If the node to be deleted is the head node
-        if (x == 1) {
-            head = head->next;
-            if (head) head->prev = nullptr;
-            delete temp;
+        // Your code here
+        Node*temp=head;
+        Node*p=head;
+        if(x==1)
+        {
+            head=temp->next;
+            head->prev=NULL;
+            p->next=NULL;
             return head;
         }
-
-        int count = 1;
-        while (temp != nullptr && count < x) {
-            temp = temp->next;
-            count++;
+        int y=1;
+        while(y!=x)
+        {
+            p=temp;
+            temp=temp->next;
+            y++;
         }
-
-        // If the position is more than the number of nodes
-        if (!temp) return head;
-
-        // Update the next and prev pointers
-        if (temp->next) temp->next->prev = temp->prev;
-        if (temp->prev) temp->prev->next = temp->next;
-
+        if(temp->next!=NULL)
+        {
+             p->next=temp->next;
+             temp->next->prev=p;
+             temp->next=NULL;
+             temp->prev=NULL;
+        }
+        else
+            {
+                p->next=NULL;
+                temp->prev=NULL;
+            }
+       
         delete temp;
         return head;
     }
