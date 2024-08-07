@@ -426,6 +426,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0189-rotate-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2032-largest-odd-number-in-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -445,6 +446,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0812-rotate-string) |
@@ -530,6 +532,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0050-powx-n](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0273-integer-to-english-words) |
 ## Backtracking
 |  |
 | ------- |
