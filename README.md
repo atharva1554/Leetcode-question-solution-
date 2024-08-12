@@ -528,12 +528,14 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -541,6 +543,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -594,4 +597,16 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
