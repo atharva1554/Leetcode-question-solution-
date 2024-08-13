@@ -260,6 +260,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0004-median-of-two-sorted-arrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0031-next-permutation) |
+| [0040-combination-sum-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0078-subsets) |
@@ -562,6 +563,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0078-subsets) |
 ## Number Theory
 |  |
