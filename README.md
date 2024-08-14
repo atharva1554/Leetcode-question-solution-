@@ -350,6 +350,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -406,6 +407,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0002-add-two-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0908-middle-of-the-linked-list) |
@@ -492,6 +494,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [1078-remove-outermost-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -563,6 +566,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0050-powx-n](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0273-integer-to-english-words) |
 ## Backtracking
 |  |
