@@ -8,24 +8,25 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
- #include<bits/stdc++.h>
 class Solution {
 public:
-stack<int>st;
     ListNode* reverseList(ListNode* head) {
+        stack<int>st;
         ListNode* temp=head;
         while(temp!=nullptr)
         {
             st.push(temp->val);
             temp=temp->next;
         }
-        temp=head;
-        while(temp!=nullptr)
+        ListNode*dummy=new ListNode(-1);
+        ListNode* dummyhead=dummy;
+        while(!st.empty())
         {
-            temp->val=st.top();
+            ListNode*a=new ListNode(st.top());
             st.pop();
-            temp=temp->next;
+            dummy->next=a;
+            dummy=dummy->next;
         }
-        return head;
+        return dummyhead->next;
     }
 };
