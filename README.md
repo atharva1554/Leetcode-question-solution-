@@ -310,6 +310,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2035-count-sub-islands](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -470,6 +471,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
@@ -513,6 +515,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1240-stone-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2032-largest-odd-number-in-string) |
+| [2155-find-missing-observations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2155-find-missing-observations) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Enumeration
 |  |
