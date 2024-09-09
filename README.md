@@ -317,6 +317,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2727-number-of-senior-citizens) |
@@ -467,6 +468,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -481,6 +483,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2155-find-missing-observations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2411-spiral-matrix-iv) |
 | [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Divide and Conquer
@@ -503,6 +506,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2472-build-a-matrix-with-conditions) |
 ## Math
 |  |
