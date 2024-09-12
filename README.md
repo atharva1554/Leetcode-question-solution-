@@ -307,6 +307,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2035-count-sub-islands) |
@@ -360,6 +361,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -558,6 +560,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1720-crawler-log-folder](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2032-largest-odd-number-in-string) |
@@ -592,12 +595,14 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0231-power-of-two](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
