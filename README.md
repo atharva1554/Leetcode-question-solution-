@@ -533,6 +533,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3567-convert-date-to-binary](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3567-convert-date-to-binary) |
 ## Enumeration
 |  |
 | ------- |
@@ -572,6 +573,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3235-minimum-cost-to-convert-string-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3567-convert-date-to-binary](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
 | ------- |
