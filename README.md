@@ -277,6 +277,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0128-longest-consecutive-sequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -405,6 +406,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
@@ -423,6 +425,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
 | [0890-lemonade-change](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -559,6 +562,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0014-longest-common-prefix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
