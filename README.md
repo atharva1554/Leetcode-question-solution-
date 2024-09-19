@@ -439,6 +439,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0005-longest-palindromic-substring](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0650-2-keys-keyboard) |
@@ -533,6 +534,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0189-rotate-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0539-minimum-time-difference) |
@@ -563,6 +565,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
@@ -688,6 +691,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0206-reverse-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0273-integer-to-english-words) |
 ## Backtracking
 |  |
@@ -750,4 +754,8 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
