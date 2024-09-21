@@ -600,6 +600,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -745,6 +746,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -770,4 +772,8 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0214-shortest-palindrome) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
