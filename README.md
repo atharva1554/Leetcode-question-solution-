@@ -650,6 +650,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0014-longest-common-prefix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## String Matching
 |  |
 | ------- |
