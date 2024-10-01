@@ -832,6 +832,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0176-second-highest-salary) |
 | [1664-find-users-with-valid-e-mails](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1664-find-users-with-valid-e-mails) |
 | [1811-fix-names-in-a-table](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1827-invalid-tweets) |
