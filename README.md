@@ -839,6 +839,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0607-sales-person](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0607-sales-person) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1179-game-play-analysis-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1179-game-play-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1664-find-users-with-valid-e-mails](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1664-find-users-with-valid-e-mails) |
 | [1811-fix-names-in-a-table](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1811-fix-names-in-a-table) |
