@@ -849,5 +849,6 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1892-find-total-time-spent-by-each-employee](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2024-calculate-special-bonus) |
+| [2057-count-salary-categories](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
