@@ -829,4 +829,8 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0432-all-oone-data-structure) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
