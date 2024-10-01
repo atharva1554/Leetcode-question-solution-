@@ -833,4 +833,5 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [1827-invalid-tweets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1827-invalid-tweets) |
+| [2024-calculate-special-bonus](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2024-calculate-special-bonus) |
 <!---LeetCode Topics End-->
