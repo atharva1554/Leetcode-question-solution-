@@ -835,6 +835,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0176-second-highest-salary](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0196-delete-duplicate-emails) |
 | [1664-find-users-with-valid-e-mails](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1664-find-users-with-valid-e-mails) |
 | [1811-fix-names-in-a-table](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1827-invalid-tweets) |
