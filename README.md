@@ -839,5 +839,6 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1664-find-users-with-valid-e-mails](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1664-find-users-with-valid-e-mails) |
 | [1811-fix-names-in-a-table](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1827-invalid-tweets) |
+| [1948-rearrange-products-table](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2024-calculate-special-bonus) |
 <!---LeetCode Topics End-->
