@@ -271,6 +271,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0078-subsets) |
@@ -401,6 +402,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0086-partition-list) |
@@ -455,6 +457,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0241-different-ways-to-add-parentheses) |
@@ -625,6 +628,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0232-implement-queue-using-stacks) |
@@ -860,6 +864,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
