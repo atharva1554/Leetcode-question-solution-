@@ -1,27 +1,38 @@
 class Solution {
-private:
-    void fast(){
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        cout.tie(NULL);
-    }
 public:
     int trap(vector<int>& height) {
-        fast();
-        stack<int> st;
-        int res = 0;
-        int n = height.size();
-        for (int i = 0; i < n; i++) {
-            while (!st.empty() && height[i] > height[st.top()]) {
-                int top = st.top();
-                st.pop();
-                if (st.empty()) break;
-                int distance = i - st.top() - 1;
-                int boundedHeight = min(height[i], height[st.top()]) - height[top];
-                res += distance * boundedHeight;
+        int lmax=0;
+        int rmax=0;
+        int total=0;
+        int n=height.size();
+        int l=0,r=n-1;
+        while(l<r)
+        {
+            if(height[l]<=height[r])
+            {
+                if(lmax>height[l])
+                {
+                    total=total+lmax-height[l];
+                }
+                else
+                {
+                    lmax=height[l];
+                }
+                l=l+1;
             }
-            st.push(i);
+            else
+            {
+                if(rmax>height[r])
+                {
+                    total=total+rmax-height[r];
+                }
+                else
+                {
+                    rmax=height[r];
+                }
+                r=r-1;
+            }
         }
-        return res;
+           return total;
     }
 };
