@@ -7,7 +7,7 @@ public:
         int b=0;
         for(int i=0;i<n;i++)
         {    a=b=nums[i];
-            for(int j=i;j<n;j++)
+            for(int j=i+1;j<n;j++)
             {  a=max(a,nums[j]);
                b=min(b,nums[j]);
                 total=total+(a-b);
