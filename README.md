@@ -275,6 +275,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0136-single-number) |
@@ -639,6 +640,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0020-valid-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0232-implement-queue-using-stacks) |
@@ -877,6 +879,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
