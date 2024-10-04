@@ -455,6 +455,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
 | [0890-lemonade-change](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -606,6 +607,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0241-different-ways-to-add-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0273-integer-to-english-words) |
+| [0402-remove-k-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0564-find-the-closest-palindrome) |
@@ -645,6 +647,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0225-implement-stack-using-queues](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
@@ -880,6 +883,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
