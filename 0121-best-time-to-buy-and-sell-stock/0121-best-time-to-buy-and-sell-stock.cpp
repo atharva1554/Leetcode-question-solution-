@@ -6,10 +6,7 @@ public:
         for(int i=0;i<prices.size();i++)
         {
             int p=prices[i]-mini;
-            if(p>maxi)
-            {
-                maxi=p;
-            }
+            maxi=max(p,maxi);
             mini=min(mini,prices[i]);
         }
         return maxi;
