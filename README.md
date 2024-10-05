@@ -374,6 +374,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0138-copy-list-with-random-pointer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0242-valid-anagram) |
@@ -508,6 +509,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0138-copy-list-with-random-pointer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0203-remove-linked-list-elements) |
@@ -811,6 +813,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0432-all-oone-data-structure) |
@@ -865,6 +868,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0432-all-oone-data-structure) |
 ## Database
 |  |
