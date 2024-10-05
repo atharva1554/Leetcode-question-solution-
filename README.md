@@ -381,6 +381,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0432-all-oone-data-structure](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0906-walking-robot-simulation) |
@@ -422,6 +423,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0234-palindrome-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -611,6 +613,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0812-rotate-string) |
@@ -790,6 +793,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Indexed Tree
 |  |
