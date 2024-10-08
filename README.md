@@ -379,6 +379,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0001-two-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0141-linked-list-cycle) |
@@ -633,6 +634,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0014-longest-common-prefix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0214-shortest-palindrome) |
@@ -833,6 +835,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0567-permutation-in-string) |
