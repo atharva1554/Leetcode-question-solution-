@@ -304,6 +304,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0921-spiral-matrix-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
 | [1046-max-consecutive-ones-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -396,6 +397,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0870-magic-squares-in-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0966-binary-subarrays-with-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -506,6 +508,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0731-my-calendar-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1435-xor-queries-of-a-subarray) |
@@ -826,6 +829,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0239-sliding-window-maximum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0567-permutation-in-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
