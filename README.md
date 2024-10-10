@@ -306,6 +306,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0948-sort-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -697,6 +698,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0937-online-stock-span](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -953,6 +955,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0503-next-greater-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1002-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Queue
 |  |
