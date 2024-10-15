@@ -460,6 +460,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -501,6 +502,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -688,6 +690,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2727-number-of-senior-citizens](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
