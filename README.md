@@ -493,6 +493,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0402-remove-k-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1304-longest-happy-string) |
@@ -627,6 +628,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0539-minimum-time-difference](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1370-count-number-of-nice-subarrays) |
