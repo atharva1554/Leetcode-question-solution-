@@ -292,6 +292,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0287-find-the-duplicate-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0496-next-greater-element-i) |
@@ -475,6 +476,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0179-largest-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0539-minimum-time-difference) |
@@ -500,6 +502,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0179-largest-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0670-maximum-swap) |
@@ -527,6 +530,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0241-different-ways-to-add-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0664-strange-printer) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
