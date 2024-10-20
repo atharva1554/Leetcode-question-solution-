@@ -273,6 +273,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0031-next-permutation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
@@ -494,6 +495,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0402-remove-k-digits) |
@@ -518,6 +520,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
