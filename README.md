@@ -233,6 +233,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0145-binary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1484-linked-list-in-binary-tree) |
@@ -813,6 +814,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0145-binary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -824,6 +826,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
