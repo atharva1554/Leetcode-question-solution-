@@ -283,6 +283,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0045-jump-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
