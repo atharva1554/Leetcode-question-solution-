@@ -534,6 +534,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0455-assign-cookies](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1304-longest-happy-string) |
@@ -562,6 +563,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0435-non-overlapping-intervals](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1240-stone-game-ii) |
@@ -722,6 +724,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0564-find-the-closest-palindrome](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -772,6 +775,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0402-remove-k-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0937-online-stock-span) |
