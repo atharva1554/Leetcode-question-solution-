@@ -230,6 +230,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0386-lexicographical-numbers) |
@@ -776,6 +777,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0020-valid-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0225-implement-stack-using-queues) |
@@ -863,6 +865,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -878,6 +881,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
