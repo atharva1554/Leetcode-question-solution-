@@ -317,6 +317,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0859-design-circular-deque](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
@@ -406,6 +407,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0719-find-k-th-smallest-pair-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -604,6 +606,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1240-stone-game-ii) |
@@ -918,6 +921,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1325-path-with-maximum-probability) |
@@ -987,6 +991,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0424-longest-repeating-character-replacement](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1046-max-consecutive-ones-iii) |
@@ -1051,6 +1056,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0232-implement-queue-using-stacks](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1107,4 +1113,5 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
