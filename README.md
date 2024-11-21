@@ -648,6 +648,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0725-split-linked-list-in-parts](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -719,6 +720,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0870-magic-squares-in-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2155-find-missing-observations) |
