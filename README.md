@@ -354,6 +354,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1402-count-square-submatrices-with-all-ones](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -435,6 +436,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1046-max-consecutive-ones-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -479,6 +481,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1370-count-number-of-nice-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -528,6 +531,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0567-permutation-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1923-sentence-similarity-iii) |
@@ -557,6 +561,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1333-sort-the-jumbled-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
