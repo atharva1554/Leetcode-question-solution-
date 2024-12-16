@@ -431,6 +431,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -739,6 +740,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -798,6 +800,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3567-convert-date-to-binary) |
 ## Enumeration
 |  |
@@ -1029,6 +1032,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
