@@ -328,6 +328,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0719-find-k-th-smallest-pair-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0731-my-calendar-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0870-magic-squares-in-grid) |
@@ -585,6 +586,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
+| [0780-max-chunks-to-make-sorted](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -621,6 +623,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0678-valid-parenthesis-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1304-longest-happy-string) |
@@ -898,6 +901,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0678-valid-parenthesis-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1225,6 +1229,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0402-remove-k-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0503-next-greater-element-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1002-maximum-width-ramp) |
