@@ -348,6 +348,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1034-subarrays-with-k-different-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1063-best-sightseeing-pair](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1240-stone-game-ii) |
@@ -665,6 +666,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0664-strange-printer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
+| [1063-best-sightseeing-pair](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1402-count-square-submatrices-with-all-ones) |
