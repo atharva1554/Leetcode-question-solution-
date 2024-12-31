@@ -433,6 +433,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -531,6 +532,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2677-cousins-in-binary-tree-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2755-extra-characters-in-a-string) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -615,6 +617,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2699-count-the-number-of-fair-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
