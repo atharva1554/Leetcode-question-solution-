@@ -345,6 +345,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0966-binary-subarrays-with-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -666,6 +667,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0664-strange-printer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
+| [1025-minimum-cost-for-tickets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1240-stone-game-ii) |
