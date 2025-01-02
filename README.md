@@ -420,6 +420,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2586-longest-square-streak-in-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -706,6 +707,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1940-maximum-xor-for-each-query](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3427-special-array-ii) |
 ## Linked List
 |  |
@@ -891,6 +893,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2800-minimum-string-length-after-removing-substrings) |
