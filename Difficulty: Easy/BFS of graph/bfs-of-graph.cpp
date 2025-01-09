@@ -13,8 +13,8 @@ class Solution {
         int vist[n]={0};
         vist[0]=1;
         queue<int>q;
-        q.push(0);
         vector<int>bfs;
+        q.push(0);
         while(!q.empty())
         {
             int node=q.front();
@@ -23,14 +23,15 @@ class Solution {
             for(auto it:adj[node])
             {
                 if(!vist[it])
-                {
-                    vist[it]=1;
+                {  vist[it]=1;
                     q.push(it);
+                    
                 }
             }
         }
         return bfs;
     }
+    
 };
 
 //{ Driver Code Starts.
