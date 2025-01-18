@@ -260,6 +260,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1484-linked-list-in-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2035-count-sub-islands](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -276,6 +277,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1325-path-with-maximum-probability](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2201-valid-arrangement-of-pairs) |
@@ -362,6 +364,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1524-string-matching-in-an-array) |
@@ -805,6 +808,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1972-rotating-the-box) |
@@ -1100,6 +1104,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0948-sort-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2164-two-best-non-overlapping-events) |
@@ -1164,6 +1169,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
