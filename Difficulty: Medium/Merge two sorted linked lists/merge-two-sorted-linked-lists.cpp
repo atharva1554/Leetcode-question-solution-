@@ -39,8 +39,6 @@ Node *insertSorted(Node *head, int data) {
 
 
 // } Driver Code Ends
-
-
 /* Link list Node
 struct Node {
   int data;
@@ -52,51 +50,35 @@ struct Node {
   }
 };
 */
-// Function to merge two sorted linked list.
 class Solution {
-public:
+  public:
     Node* sortedMerge(Node* head1, Node* head2) {
-        // Handle edge cases where one of the lists is empty
-        if (!head1) return head2;
-        if (!head2) return head1;
-
-        // Initialize the merged list's head
-        Node* head = nullptr;
-        Node* tail = nullptr;
-
-        // Choose the first node for the merged list
-        if (head1->data <= head2->data) {
-            head = head1;
-            head1 = head1->next;
-        } else {
-            head = head2;
-            head2 = head2->next;
+        // code here
+        vector<int>ans;
+        Node* temp=head1;
+        while(temp)
+        {
+            ans.push_back(temp->data);
+            temp=temp->next;
         }
-        tail = head;
-
-        // Merge the two lists
-        while (head1 && head2) {
-            if (head1->data <= head2->data) {
-                tail->next = head1;
-                head1 = head1->next;
-            } else {
-                tail->next = head2;
-                head2 = head2->next;
-            }
-            tail = tail->next;
+        temp=head2;
+        while(temp->next)
+        {
+            ans.push_back(temp->data);
+            temp=temp->next;
         }
-
-        // Attach the remaining nodes of the longer list
-        if (head1) {
-            tail->next = head1;
-        } else {
-            tail->next = head2;
+        ans.push_back(temp->data);
+        temp->next=head1;
+        temp=head2;
+        sort(ans.begin(),ans.end());
+        for(int i=0;i<ans.size();i++)
+        {
+            temp->data=ans[i];
+            temp=temp->next;
         }
-
-        return head;
+        return head2;
     }
 };
-
 
 //{ Driver Code Starts.
 
