@@ -6,18 +6,18 @@
 #include <vector>
 using namespace std;
 
-struct node {
+struct Node {
     int data;
-    struct node* next;
+    Node* next;
 
-    node(int x) {
+    Node(int x) {
         data = x;
         next = NULL;
     }
 };
 
 /* Function to print linked list */
-void printList(struct node* node) {
+void printList(Node* node) {
     while (node != NULL) {
         printf("%d ", node->data);
         node = node->next;
@@ -28,16 +28,13 @@ void printList(struct node* node) {
 
 // } Driver Code Ends
 /*
-  Reverse a linked list
-  The input list will have at least one element
-  Return the node which points to the head of the new LinkedList
   Node is defined as
     struct node
     {
         int data;
-        struct node* next;
+        struct Node* next;
 
-        node(int x){
+        Node(int x){
             data = x;
             next = NULL;
         }
@@ -47,18 +44,18 @@ void printList(struct node* node) {
 
 class Solution {
   public:
-    struct node *reverseKGroup(struct node *head, int k) {
-        // Complete this method
+    Node *reverseKGroup(Node *head, int k) {
+        // code here
         if(!head) return head;
-        node* cur = head;
-        node* newHead = nullptr;
-        node* tail = nullptr;
+        Node* cur = head;
+        Node* newHead = nullptr;
+        Node* tail = nullptr;
         
         while(cur){
             int count=0;
-            node* prev = nullptr;
-            node* grouphead= cur;
-            node* nxt = nullptr;
+           Node* prev = nullptr;
+            Node* grouphead= cur;
+           Node* nxt = nullptr;
             while(cur && count<k){
                 nxt=cur->next;
                 cur->next = prev;
@@ -101,11 +98,11 @@ int main(void) {
         }
 
         int data = arr[0];
-        node* head = new node(data);
-        node* tail = head;
+        Node* head = new Node(data);
+        Node* tail = head;
         for (int i = 1; i < arr.size(); ++i) {
             data = arr[i];
-            tail->next = new node(data);
+            tail->next = new Node(data);
             tail = tail->next;
         }
         int k;
