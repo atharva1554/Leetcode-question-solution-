@@ -238,6 +238,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0386-lexicographical-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -259,6 +260,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -278,6 +280,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -295,6 +298,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Topological Sort
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
