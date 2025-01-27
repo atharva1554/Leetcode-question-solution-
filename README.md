@@ -245,6 +245,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1396-count-servers-that-communicate](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2201-valid-arrangement-of-pairs) |
@@ -267,6 +268,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -286,6 +288,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2201-valid-arrangement-of-pairs) |
@@ -302,6 +305,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
