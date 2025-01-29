@@ -237,6 +237,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0145-binary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0988-flip-equivalent-binary-trees) |
@@ -262,6 +263,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0102-binary-tree-level-order-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
@@ -285,6 +287,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1056,6 +1059,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0684-redundant-connection) |
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
