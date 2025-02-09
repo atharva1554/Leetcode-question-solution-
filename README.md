@@ -331,6 +331,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0053-maximum-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -881,6 +882,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0013-roman-to-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0231-power-of-two) |
