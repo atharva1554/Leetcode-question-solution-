@@ -834,6 +834,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
@@ -992,6 +993,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3567-convert-date-to-binary) |
@@ -1034,6 +1036,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
