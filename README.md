@@ -393,6 +393,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1511-count-number-of-teams) |
@@ -769,6 +770,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1370-count-number-of-nice-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1694-make-sum-divisible-by-p) |
@@ -905,6 +907,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1240-stone-game-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1477-product-of-the-last-k-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2155-find-missing-observations) |
@@ -1304,6 +1307,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
@@ -1315,6 +1319,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1477-product-of-the-last-k-numbers) |
 ## Brainteaser
 |  |
 | ------- |
