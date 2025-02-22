@@ -243,6 +243,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0854-making-a-large-island](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0999-regions-cut-by-slashes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1396-count-servers-that-communicate) |
@@ -963,6 +964,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0920-uncommon-words-from-two-sentences](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1078-remove-outermost-parentheses) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1156,6 +1158,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0776-n-ary-tree-postorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -1179,6 +1182,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0543-diameter-of-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
