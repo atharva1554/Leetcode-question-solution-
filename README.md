@@ -940,6 +940,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1642-water-bottles) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2448-count-number-of-bad-pairs) |
