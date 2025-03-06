@@ -497,6 +497,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2868-continuous-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3227-find-missing-and-repeated-values](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3291-find-if-array-can-be-sorted) |
@@ -618,6 +619,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -915,6 +917,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -948,6 +951,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2716-prime-subtraction-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3227-find-missing-and-repeated-values) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
