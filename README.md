@@ -628,6 +628,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1054,6 +1055,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3455-minimum-length-of-string-after-operations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3567-convert-date-to-binary) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
 | ------- |
@@ -1349,6 +1351,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
