@@ -260,6 +260,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2564-most-profitable-path-in-a-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
@@ -291,6 +292,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2677-cousins-in-binary-tree-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
@@ -312,6 +314,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2564-most-profitable-path-in-a-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -1187,6 +1190,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2035-count-sub-islands](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Trie
 |  |
