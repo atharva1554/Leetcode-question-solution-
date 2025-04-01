@@ -464,6 +464,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2227-sum-of-subarray-ranges](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -830,6 +831,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2067-maximum-number-of-points-with-cost](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2586-longest-square-streak-in-an-array) |
