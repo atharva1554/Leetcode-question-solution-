@@ -517,6 +517,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2888-minimum-index-of-a-valid-split](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3001-apply-operations-to-maximize-score) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3235-minimum-cost-to-convert-string-i) |
