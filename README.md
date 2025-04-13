@@ -1014,6 +1014,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1642-water-bottles](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2448-count-number-of-bad-pairs) |
@@ -1372,6 +1373,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0273-integer-to-english-words](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
