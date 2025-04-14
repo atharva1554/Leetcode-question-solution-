@@ -1,21 +1,23 @@
 class Solution {
 public:
     int countGoodTriplets(vector<int>& arr, int a, int b, int c) {
-        int n=arr.size();
-        int cnt=0;
-        for(int k=2;k<n;k++)
-        {
-            for(int j=0;j<k;j++)
-            {
-                for(int i=0;i<j;i++)
-                {
-                    if((abs(arr[i]-arr[j])<=a)&&(abs(arr[j]-arr[k])<=b)&&(abs(arr[i]-arr[k])<=c))
-                    {
-                        cnt++;
+        int goodTriplets = 0;
+        int length = arr.size();
+
+        for (int i = 0; i < length; ++i) {
+            for (int j = i + 1; j < length; ++j) {
+                if (abs(arr[i] - arr[j]) <= a) {
+                    for (int k = j + 1; k < length; ++k) {
+                        if (abs(arr[j] - arr[k]) <= b &&
+                            abs(arr[i] - arr[k]) <= c) {
+                            goodTriplets++;
+                            // \U0001f94b Rock Lee: "The power of repetition is unmatched!" \U0001f501
+                        }
                     }
                 }
             }
         }
-        return cnt;
+
+        return goodTriplets;
     }
 };
