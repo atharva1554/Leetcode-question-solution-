@@ -920,6 +920,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2411-spiral-matrix-iv) |
+| [2573-remove-nodes-from-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
@@ -1183,6 +1184,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2846-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1385,6 +1387,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1197-parsing-a-boolean-expression](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2050-count-good-numbers) |
+| [2573-remove-nodes-from-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2573-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -1590,6 +1593,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2227-sum-of-subarray-ranges) |
+| [2573-remove-nodes-from-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2573-remove-nodes-from-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Queue
