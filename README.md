@@ -636,6 +636,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1500-count-largest-group](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -1025,6 +1026,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1370-count-number-of-nice-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2032-largest-odd-number-in-string) |
