@@ -724,6 +724,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0633-sum-of-square-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -853,6 +854,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0650-2-keys-keyboard](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0678-valid-parenthesis-string) |
+| [0868-push-dominoes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0943-sum-of-subarray-minimums) |
 | [1025-minimum-cost-for-tickets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1025-minimum-cost-for-tickets) |
@@ -1104,6 +1106,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1078-remove-outermost-parentheses) |
