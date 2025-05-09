@@ -887,6 +887,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2755-extra-characters-in-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3637-count-number-of-balanced-permutations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1079,6 +1080,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3567-convert-date-to-binary) |
+| [3637-count-number-of-balanced-permutations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
@@ -1183,6 +1185,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
 | ------- |
@@ -1661,4 +1664,5 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
