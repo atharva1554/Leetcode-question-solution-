@@ -537,6 +537,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2915-count-of-interesting-subarrays](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3227-find-missing-and-repeated-values) |
@@ -841,6 +842,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3001-apply-operations-to-maximize-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
