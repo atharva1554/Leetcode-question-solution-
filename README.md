@@ -471,6 +471,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2179-most-beautiful-item-for-each-query](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2215-finding-3-digit-even-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2232-adding-spaces-to-a-string) |
@@ -667,6 +668,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -782,6 +784,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2164-two-best-non-overlapping-events](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2502-sort-the-people) |
@@ -1089,6 +1092,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0204-count-primes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3548-find-the-count-of-good-integers) |
 ## String
