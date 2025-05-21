@@ -1646,6 +1646,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0184-department-highest-salary](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0584-find-customer-referee](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0584-find-customer-referee) |
 | [0596-classes-more-than-5-students](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0596-classes-more-than-5-students) |
 | [0607-sales-person](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0607-sales-person) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
