@@ -1652,6 +1652,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0607-sales-person](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0607-sales-person) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1179-game-play-analysis-i) |
+| [1258-article-views-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1625-group-sold-products-by-the-date) |
