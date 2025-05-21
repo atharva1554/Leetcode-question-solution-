@@ -350,6 +350,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0055-jump-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -619,6 +620,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0001-two-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0138-copy-list-with-random-pointer) |
@@ -1018,6 +1020,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0787-sliding-puzzle) |
