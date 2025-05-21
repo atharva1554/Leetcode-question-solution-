@@ -1657,6 +1657,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1811-fix-names-in-a-table](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1827-invalid-tweets) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1908-recyclable-and-low-fat-products](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2057-count-salary-categories) |
