@@ -1111,6 +1111,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3001-apply-operations-to-maximize-score) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3321-type-of-triangle) |
