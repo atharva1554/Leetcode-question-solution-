@@ -734,6 +734,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1256,6 +1257,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3637-count-number-of-balanced-permutations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -1362,6 +1364,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3455-minimum-length-of-string-after-operations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Union Find
 |  |
 | ------- |
