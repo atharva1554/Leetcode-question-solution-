@@ -881,6 +881,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1127,6 +1128,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [2448-count-number-of-bad-pairs](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
