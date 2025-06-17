@@ -1150,6 +1150,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -1772,4 +1773,5 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3201-distribute-candies-among-children-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
