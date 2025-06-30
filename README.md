@@ -388,6 +388,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0496-next-greater-element-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0729-my-calendar-i) |
@@ -667,6 +668,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0460-lfu-cache](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0768-partition-labels) |
@@ -816,6 +818,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0726-number-of-atoms) |
@@ -1383,6 +1386,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | ------- |
 | [0169-majority-element](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1160-letter-tile-possibilities) |
@@ -1623,6 +1627,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [0239-sliding-window-maximum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/0966-binary-subarrays-with-sum) |
