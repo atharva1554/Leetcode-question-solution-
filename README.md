@@ -1075,6 +1075,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3447-clear-digits](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1178,6 +1179,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3567-convert-date-to-binary) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1385,6 +1387,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -1573,6 +1576,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2573-remove-nodes-from-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
