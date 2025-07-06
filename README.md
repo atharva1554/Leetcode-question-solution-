@@ -471,6 +471,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1927-maximum-ascending-subarray-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1972-rotating-the-box) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2048-build-array-from-permutation) |
@@ -704,6 +705,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2107-find-unique-binary-string) |
@@ -1693,6 +1695,7 @@ In this repository, I save the solutions to the LeetCode problems that I solve o
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/atharva1554/Leetcode-question-solution-/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
